@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "編み目",
+  "base_artist": "Aki",
+  "createdAt": "2026-03-14T15:56:28.136984Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "編み目",
+      "artist": "Aki",
+      "has_synced": false,
+      "path": "select/pl_01_編み目_Aki.txt"
+    }
+  ]
+}
